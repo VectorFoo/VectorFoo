@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @VectorFoo
-- 👀 I’m interested in Computer Programming and Robotics
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me contact@vectorfoo.com
+Hey there im @VectorFoo!
+Intrests of mine include Computer Programming and Robotics
+Languages I know under computer programming are CSS, HTML, C#, and Lua
+All of the languages I have listed I am still learning but I know the majority of all the languages besides C#
 
-<!---
-VectorFoo/VectorFoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Contact me with my email contact@vectorfoo.com
